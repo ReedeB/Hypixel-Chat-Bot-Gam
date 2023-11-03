@@ -55,7 +55,7 @@ npm install -g pm2
 
 apt install git
 
-git clone https://github.com/Jacktheguys/Hypixel-Chat-Bot
+git clone https://github.com/ReedeB/Hypixel-Chat-Bot-Gam
 
 mkdir bridges
 
